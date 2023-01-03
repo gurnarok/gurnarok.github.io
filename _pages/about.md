@@ -2,24 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <i>You never stop learning. You never stop evolving.</i>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+*[ROS]: Robotic Operating System
+*[LIBS]: Laser Induced Breakdown Spectroscopy
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Working in Satakunta University of Applied Sciences, started Bachelor's degree studies in 2018, majoring in mechanical engineering. Changed my major to automation and electrical engineering in 2020 after being employed to [RoboAI](https://www.roboai.fi/en/) as a project worker, working with ROS, writing Python code, developing course material and examples for teaching.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Currently working in RoboAI Green, developing a LIBS application for recycling.
+
+### Skills
+- 3D modeling using SolidWorks
+- Fabrication (machining, welding)
+- Programming (Python, C#, C/C++)
+- 3D printing
