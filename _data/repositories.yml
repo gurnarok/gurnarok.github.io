@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - gurnarok
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - gurnarok/hector_navigation_node
+  - gurnarok/gazebo-conveyor
+  - rokokoo/conveyor_demo
+  - rokokoo/rosi_elfin
+  - rokokoo/rosi_icim
+  - rokokoo/rosi_schunk
